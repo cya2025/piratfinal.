@@ -22,70 +22,26 @@
 1struqsiô : ,tu morsé 'm' 30 segôd,.
 1struqsiô : ,tu diré 'n' 30 segôd,.
 1struqsiô : ,tu morsé 'n' 30 segôd,.
-1struqsiô : ,tu diré 'a' 30 segôd,.
-1struqsiô : ,tu morsé 'a' 30 segôd,.
-1struqsiô : ,tu diré 'a' 30 segôd,.
-1struqsiô : ,tu morsé 'a' 30 segôd,.
-
-
-(media./direr 'o' 30 seconde.)
-morser 'o' 30 seconde.
-(media./morser 'o' 30 seconde.)
-
-direr 'p' 30 seconde.
-(media./direr 'p' 30 seconde.)
-morser 'p' 30 seconde.
-(media./morser 'p' 30 seconde.)
-
-direr 'q' 30 seconde.
-(media./direr 'q' 30 seconde.)
-morser 'q' 30 seconde.
-(media./morser 'q' 30 seconde.)
-
-direr 'r' 30 seconde.
-(media./direr 'r' 30 seconde.)
-morser 'r' 30 seconde.
-(media./morser 'r' 30 seconde.)
-
-direr 's' 30 seconde.
-(media./direr 's' 30 seconde.)
-morser 's' 30 seconde.
-(media./morser 's' 30 seconde.)
-
-direr 't' 30 seconde.
-(media./direr 't' 30 seconde.)
-morser 't' 30 seconde.
-(media./morser 't' 30 seconde.)
-
-direr 'u' 30 seconde.
-(media./direr 'u' 30 seconde.)
-morser 'u' 30 seconde.
-(media./morser 'u' 30 seconde.)
-
-direr 'v' 30 seconde.
-(media./direr 'v' 30 seconde.)
-morser 'v' 30 seconde.
-(media./morser 'v' 30 seconde.)
-
-direr 'w' 30 seconde.
-(media./direr 'w' 30 seconde.)
-morser 'w' 30 seconde.
-(media./morser 'w' 30 seconde.)
-
-direr 'x' 30 seconde.
-(media./direr 'x' 30 seconde.)
-morser 'x' 30 seconde.
-(media./morser 'x' 30 seconde.)
-
-direr 'y' 30 seconde.
-(media./direr 'y' 30 seconde.)
-morser 'y' 30 seconde.
-(media./morser 'y' 30 seconde.)
-
-direr 'z' 30 seconde.
-(media./direr 'z' 30 seconde.)
-morser 'z' 30 seconde.
-(media./morser 'z' 30 seconde.)
-
-miroiter 2 minute.
-(media./miroiter 2 minute.)
+1struqsiô : ,tu diré 'o' 30 segôd,.
+1struqsiô : ,tu morsé 'o' 30 segôd,.
+1struqsiô : ,tu diré 'p' 30 segôd,.
+1struqsiô : ,tu morsé 'p' 30 segôd,.
+1struqsiô : ,tu diré 'q' 30 segôd,.
+1struqsiô : ,tu morsé 'q' 30 segôd,.
+1struqsiô : ,tu diré 'r' 30 segôd,.
+1struqsiô : ,tu morsé 'r' 30 segôd,.
+1struqsiô : ,tu diré 's' 30 segôd,.
+1struqsiô : ,tu morsé 's' 30 segôd,.
+1struqsiô : ,tu diré 't' 30 segôd,.
+1struqsiô : ,tu morsé 't' 30 segôd,.
+1struqsiô : ,tu diré 'u' 30 segôd,.
+1struqsiô : ,tu morsé 'u' 30 segôd,.
+1struqsiô : ,tu diré 'v' 30 segôd,.
+1struqsiô : ,tu morsé 'v' 30 segôd,.
+1struqsiô : ,tu diré 'w' 30 segôd,.
+1struqsiô : ,tu morsé 'w' 30 segôd,.
+1struqsiô : ,tu diré 'y' 30 segôd,.
+1struqsiô : ,tu morsé 'y' 30 segôd,.
+1struqsiô : ,tu diré 'z' 30 segôd,.
+1struqsiô : ,tu morsé 'z' 30 segôd,
+1struqsiô : ,tu miroaté 2 minut,.
